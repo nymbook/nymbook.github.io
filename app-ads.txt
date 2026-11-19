@@ -162,6 +162,9 @@ thebrave.io, 1234634, RESELLER, c25b2154543746ac
 vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
 start.io, 197760873, RESELLER
 verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+playdigo.com, 1965, RESELLER
+start.io, 131192070, RESELLER
+monetrix.ai, 10761, RESELLER
 
 # InMobi
 inmobi.com, a57663705ce04b0fa8239d013318ae33, DIRECT, 83e75a7ae333ca9d
